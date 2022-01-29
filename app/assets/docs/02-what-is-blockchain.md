@@ -4,7 +4,7 @@ Ever since the initial launch of Bitcoin in 2009, blockchain technology has prol
 
 ## Centralized Private Ledgers
 
-At its core, the Sumcoin blockchain is a distributed public ledger. A ledger is traditionally a document such as a spreadsheet in which accounts are kept of economic transactions, including credits, debits, and balances. They are generally used to keep track of an individual's or organization's financial standing or other recordable data such as assets, liabilities, income, expenses and capital.
+At its core, the Sumcash blockchain is a distributed public ledger. A ledger is traditionally a document such as a spreadsheet in which accounts are kept of economic transactions, including credits, debits, and balances. They are generally used to keep track of an individual's or organization's financial standing or other recordable data such as assets, liabilities, income, expenses and capital.
 
 Before the invention of the blockchain, it was necessary for individuals to manage their financial accounts by placing their trust in a centrally managed third party organization which maintained its own private ledger. Example services include banks, credit card issuers, money transfer services and other financial institutions.
 
@@ -24,7 +24,7 @@ Thus, rather than trust being concentrated in a central entity to manage its own
 
 The blockchain itself can be accurately described as a continuously growing list of individual transaction records called blocks. As transactions are initiated by users of the network they are broadcast out to the network of validation nodes. One by one these transactions are validated, grouped together and recorded into a block which is then attached to the end of the blockchain as the next link in the chain. Therefore every block is linked, forming one long cryptographically secured chain of blocks. When combined together these individual blocks of data form the entirety of the public ledger, which consists of all the transactions that have ever taken place on the network.
 
-In Bitcoin and Sumcoin, a new block is added to the chain about every ten minutes, which contains all the transactions made by users in that period. Account balances on the public ledger are consistently and automatically updated with each new added block to reflect changes from these transactions.
+In Bitcoin and Sumcash, a new block is added to the chain about every ten minutes, which contains all the transactions made by users in that period. Account balances on the public ledger are consistently and automatically updated with each new added block to reflect changes from these transactions.
 
 ## Distributed Consensus Protocol
 

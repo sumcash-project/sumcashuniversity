@@ -1,7 +1,7 @@
 {
-  "name": "sumcoin-doc",
-  "description": "Sumcoin documentation",
-  "author": "Sumcoin",
+  "name": "sumcash-doc",
+  "description": "Sumcash documentation",
+  "author": "Sumcash",
   "version": "0.1.1",
   "repository": "https://github.com/sumcoinlabs/docs.git",
   "scripts": {

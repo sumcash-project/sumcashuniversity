@@ -1,8 +1,8 @@
 export default {
-  documentation_name: 'Sumcoin University',
+  documentation_name: 'Sumcash University',
 
   allow_topbar_link: true,
-  topbar_link_label: 'Sumcoin University',
+  topbar_link_label: 'Sumcash University',
   topbar_link_url: 'https://github.com/sumcoinlabs/SumcoinUniversity',
 
   allow_font_size_control: true,
