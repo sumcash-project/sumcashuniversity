@@ -3,7 +3,7 @@ export default {
 
   allow_topbar_link: true,
   topbar_link_label: 'Sumcash University',
-  topbar_link_url: 'https://github.com/sumcoinlabs/SumcoinUniversity',
+  topbar_link_url: 'https://github.com/sumcash-project/sumcashuniversity',
 
   allow_font_size_control: true,
 
